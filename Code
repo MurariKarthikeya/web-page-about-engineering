@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <meta charset = "UTF-8">
+    <title>About engineering</title>
+    <style>
+        div{
+           color:blue;
+           font-family:Arial,"times new roman";
+           font-size:medium;
+           background:#ADD8E6;
+           display:inline-block;
+           overflow:auto;
+          }
+         h1{
+           color:Black;
+           font-family:serif,"times new roman";
+          }
+         a{
+           background:#ADD8E6;
+           font-family:serif,"times new roman";
+          }
+    </style>
+</head>
+<body>
+<h1>About engineering</h1>
+<div><p>There are now six major branches of engineering:
+Mechanical, Chemical, Civil, Electrical, Management,
+and Geotechnical, and literally hundreds of different
+subcategories of engineering under each branch.</p>
+<p>Engineers - What They Do. Engineers apply
+the principles of science and mathematics to
+develop economical solutions to technical problems.
+Their work is the link between scientific discoveries 
+and the commercial applications that meet societal
+and consumer needs. Many engineers develop new products.</p>
+<p>Engineering is the application of science and 
+math to solve problems. Engineers figure out how 
+things work and find practical uses for scientific discoveries. 
+Scientists and inventors often get the credit for innovations 
+that advance the human condition, but it is engineers who are 
+instrumental in making those innovations available to the world.</p>
+
+<p>DID YOU KNOW THAT...
+1.The snowboard was invented by an engineer?  
+With some engineering twists and turns along the way, the snowboard has become a marvel of geometry, chemistry, and biomechanics. Since the snowboard allows deft turns, ski manufacturers have quickly adopted some of the snowboard innovations, enabling skiers to turn with less effort.
+2.Engineers design running shoes for protection, performance, and comfort?  
+Engineers understand how much force travels from the ground through the shoe to the foot. Through the work of engineering, weight is distributed throughout the whole foot -- heel to toe.
+3.A civil engineer created the slippery part of the water slide?  
+A civil engineer designed a pumping system to circulate just the right amount of water to the flume. Without the right flow of water, there is no ride. Additionally, civil engineers have designed the slide to withstand the weight of people, the water, and even the force of the wind blowing on it.
+4.The launch and return of spacecraft, from the Apollo to the Shuttle, is a monumental engineering triumph?  
+The space program has greatly expanded the world's knowledge base. The technological advancement by engineers in energy, communications, materials, structures, and computers, have made space travel possible.
+5.The Ferris Wheel is considered one of the greatest engineering wonders in the world?  
+The first Ferris Wheel was created by Pittsburgh, Pennsylvania engineer, George W. Ferris, in 1893. The wheel is supported by two 140-foot steel towers and connected by a 45-foot axle -- the largest single piece of forged steel ever made at that time.
+6.Engineers make interactive television possible?  
+Engineers are involved in all aspects of interactive TV technology, from designing new cables, to creating new film emulsions, to engineering better sound quality. This technology allows viewers to select any program, film, or game from more than 500 channels.
+7.Engineers play an instrumental role in the theme park industry? Theme park engineers are involved in designing, building, lighting, and even controlling the crowd flow in theme parks around the world.
+Companies and universities are using engineers to form the Virtual Reality and Simulation Initiative? This technology applies computer simulation and visualization to 3-D modeling projects, such as virtual offices.
+8.Bioengineers are creating a new and exciting medical technology?  This technology will utilize virtual reality to help surgeons reconstruct facial birth defects.
+Computer engineers, in conjunction with animators, have created special effects in movies such as "Jurassic Park," "Forrest Gump," and "Interview with the Vampire"?  Through "morphing" technology, images are digitally mastered to appear realistic.
+</div>
+
+<h3>For more information visit :-</h3>
+<a href="https://www.livescience.com/47499-what-is-engineering.html#:~:text=Engineering%20is%20the%20application%20of,practical%20uses%20for%20scientific%20discoveries.&text=A%20good%20engineer%20is%20a,few%20original%20ideas%20as%20possible.">Visit Live Science</a>
+<a href="https://www.thebalancecareers.com/how-to-become-an-engineer-525606">Visit The balancecareers</a>
+<a href="https://www.britannica.com/technology/engineering">Visit Brittanica</a>
+
+
